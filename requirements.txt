@@ -1,7 +1,6 @@
 streamlit
 youtube_dl
 youtube_transcript_api
-time
 zipfile 
 os 
 base64
