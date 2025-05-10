@@ -1,7 +1,4 @@
 streamlit
 youtube_dl
 youtube_transcript_api
-zipfile 
-os 
-base64
 requests
